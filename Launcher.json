@@ -1,6 +1,6 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://100.101.51.118/ClientGame//Update/filelist.json",
+	"FileList":"http://100.101.51.118/Update/filelist.json",
 	"DownloadUpdate": "http://100.101.51.118/ClientGame/",		
 	"News": [
 		"https://spard2.github.io/dayzupdate/News/0.png",
