@@ -1,7 +1,7 @@
 {   
 	"Version": "1.00",
-	"FileList":"https://storage.hubstore.site/Update/filelist.json",
-	"DownloadUpdate": "https://storage.hubstore.site/ClientGame/",		
+	"FileList":"http://100.101.51.118/ClientGame//Update/filelist.json",
+	"DownloadUpdate": "http://100.101.51.118/ClientGame/",		
 	"News": [
 		"https://spard2.github.io/dayzupdate/News/0.png",
 		"https://spard2.github.io/dayzupdate/News/1.png",
